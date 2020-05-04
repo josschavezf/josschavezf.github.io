@@ -29,7 +29,7 @@ I have used [R](https://www.r-project.org) programming language during the last 
 
 ## Packages and contributions
 
-- [regulonDB](http://github.com/comunidadBioInfo/regutools/), co-author and maintainer 2020.
+- [regulonDB](https://bioconductor.org/packages/release/bioc/html/regutools.html), co-author and maintainer 2020.
 - [erba](https://github.com/josschavezf/erba), author and maintainer 2020.
 
 ## Courses and Conferences
