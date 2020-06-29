@@ -10,6 +10,7 @@ I have used [R](https://www.r-project.org) programming language during the last 
 - Bioinformatics
 - R programming
 - Gene Regulation
+- Teaching
 
 ## Programming languages
 - R
