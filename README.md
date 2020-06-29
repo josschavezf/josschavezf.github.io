@@ -57,6 +57,7 @@ I have used [R](https://www.r-project.org) programming language during the last 
 - [Twitter](https://twitter.com/josschavezf1) 
 - [GitHub](https://github.com/josschavezf)
 - [LinkedIn](https://www.linkedin.com/in/joselyn-chavez-1a31a3125/)
+- [Scholar](https://scholar.google.com/citations?user=z7dVJKgAAAAJ&hl=es)
 
 ## Contact
 
