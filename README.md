@@ -8,13 +8,13 @@ I have used [R](https://www.r-project.org) programming language during the last 
 ## Interests
 
 - Bioinformatics
-- Packages development
-- Epigenetics
-- Molecular Biology
+- R programming
+- Gene Regulation
 
 ## Programming languages
 - R
 - Perl
+- Python
 
 ## Projects
 
