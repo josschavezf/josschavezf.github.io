@@ -8,13 +8,14 @@ I have used [R](https://www.r-project.org) programming language during the last 
 ## Interests
 
 - Bioinformatics
-- Packages development
-- Epigenetics
-- Molecular Biology
+- R programming
+- Gene Regulation
+- Teaching
 
 ## Programming languages
 - R
 - Perl
+- Python
 
 ## Projects
 
@@ -24,12 +25,13 @@ I have used [R](https://www.r-project.org) programming language during the last 
 
 ## Publications
 
+- Programmatic Access to Bacterial Regulatory Networks With Regutools. 2020. [Article](https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btaa575/5861528?redirectedFrom=fulltext).
 - dAdd1 and dXNP prevent genome instability by maintaining HP1a localization at Drosophila telomeres. 2017. [Article](https://www.ncbi.nlm.nih.gov/pubmed/28688038).
 - Expression profiling and down-regulation of three histone lysine methyltransferase genes (PvATXR3h, PvASHH2h, and PvTRX1h) in the common bean. 2014. [Article](http://www.pomics.com/venegas_8_5_2015_429_440.pdf).
 
 ## Packages and contributions
 
-- [regulonDB](http://github.com/comunidadBioInfo/regutools/), co-author and maintainer 2020.
+- [regutools](https://bioconductor.org/packages/release/bioc/html/regutools.html), co-author and maintainer 2020.
 - [erba](https://github.com/josschavezf/erba), author and maintainer 2020.
 
 ## Courses and Conferences
@@ -48,13 +50,14 @@ I have used [R](https://www.r-project.org) programming language during the last 
 
 - Board member of [CDSB](https://comunidadbioinfo.github.io) Mexico.
 - Member of the Bioinformatics Network Mexico [RMB](https://redmexicanadebioinformatica.org).
-- Founder of [R-Ladies](https://twitter.com/RLadiesCuerna) Cuernavaca.
+- Co-Founder of [R-Ladies](https://twitter.com/RLadiesCuerna) Cuernavaca.
 
 ## Profiles
 
 - [Twitter](https://twitter.com/josschavezf1) 
 - [GitHub](https://github.com/josschavezf)
 - [LinkedIn](https://www.linkedin.com/in/joselyn-chavez-1a31a3125/)
+- [Scholar](https://scholar.google.com/citations?user=z7dVJKgAAAAJ&hl=es)
 
 ## Contact
 
